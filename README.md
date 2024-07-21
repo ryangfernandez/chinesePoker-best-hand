@@ -20,8 +20,8 @@ a cli-based program that will (maybe) output the best possible hand for a given 
 ### card representation
 
 - cards are represented using the rank x and the suit y like so: xy
-- the valid ranks are '2 3 4 5 6 7 8 9 10 j q k a' in order of power.
+- the valid ranks are '2 3 4 5 6 7 8 9 t j q k a' in order of power.
 - the valid suits are 'c s h d' in no particular order.
 <br></br>
-- a valid input for a hand would be: jd, 9s, 5d, 2h, 5c, 3c, jc, 10c, 10h, 8c, 3s, as, 6c
+- a valid input for a hand would be: jd, 9s, 5d, 2h, 5c, 3c, jc, tc, th, 8c, 3s, as, 6c
   
